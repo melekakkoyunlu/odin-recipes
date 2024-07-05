@@ -1,0 +1,32 @@
+li{
+    list-style-type: square;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic; 
+    font-size: larger;
+    color: darkslateblue;
+}
+
+body{
+    background-color: rgb(194, 157, 230);
+}
+
+h1{
+    color: rgb(104, 10, 192);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-style: italic;
+}
+
+h2{
+    color: rgb(104, 10, 192);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    font-style: italic;
+}
+
+h3{
+    color: rgb(104, 10, 192);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    font-style: italic;
+}
