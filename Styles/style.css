@@ -1,5 +1,13 @@
-li{
+ul{
     list-style-type: square;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic; 
+    font-size: larger;
+    color: darkslateblue;
+}
+
+ol{
+    list-style-type: decimal;
     font-family: Arial, Helvetica, sans-serif;
     font-style: italic; 
     font-size: larger;
